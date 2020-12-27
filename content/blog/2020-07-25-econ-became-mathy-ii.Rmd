@@ -1,0 +1,72 @@
+---
+author: "Tudor Schlanger"
+
+# The title of your post. Default value is generated
+# From the markdown filename
+title: "How Economics Became a Mathematical Science (II)"
+# The date the post was created
+date: "2020-07-25"
+# The post filename
+slug: "econ-became-mathy-ii"
+# Post description used for seo
+description: ""
+# Post keywords used for seo
+keywords: ["History of Economic Thought"]
+# If true, the blog post will not be included in static build
+draft: false
+# Categorize your post with tags
+tags: ["History of Economic Thought"]
+# Uses math typesetting
+math: true
+# Includes a table of contents on screens >1024px
+toc: false
+---
+
+In the previous entry, I ended on the birth of a new era for both mathematics and an incipient branch of economics, namely *mathematical economics*. Both born out of Hilbert's Formalist Program, both seeking purity and clarity above all, and in so doing, both inching away from worldly concerns. Before I proceed the inquiry into how the then-germinating strand of economics now claims so much of the methodological space of the discipline, I want to provide some background of the 30s and 40s landscape.
+
+### A bit of context
+Marshallian economics continued to be a stronghold of economics until the 1930s when it started being replaced by new theories and methods. One of Marshall's disciples, John Maynard Keynes himself, ravished the world with his analysis of business cycles and the rules of a new world order. In this arena, grand theorists of capitalism were still alive and very much central in academic debates. According to Heilbroner, the last of the giants was Joseph Schumpeter! Published in 1942, his magnum opus *Capitalism, Socialism and Democracy* expounded on the now celebrated idea of "creative destruction", which arguably became just as famous as Marshall's supply and demand curves. In contrast, less known is the prophesy launched in the same book whereby capitalism fades into a bureaucratic socialism - a much tamer and less exciting ending than its Marxist counterpart, yet still a shocking one. Heilbroner argues that with Schumpeter, the era of the Worldly Philosopher came to an end, and with it, a marked shift of vision took hold. From a discipline explaining the workings of capitalism and predicting the path of society, economics started focusing on the scientific and mathematical approach. **Science** became the new vision. 
+
+### Bourbaki and the Arrow-Debreu theorem 
+In the mid 1930s, a group of French mathematicians named "Bourbaki" initiated a project that attempted to revamp the way calculus was taught. Their inital project soon morphed into a project of colossal proportions: that of creating a basic book for mathematicians, using the Formalist agenda of building the theory from scratch. The handbook was in fact a long series of publications which built, one on top of each other, paying attention to the logical organization of its chapters, from the most general to the specific. Because of the painstaking attention to organization, one of the members of the group claimed that "an average of 8-12 years was necessary" from the conception of a chapter until its publication (cited in Weintraub, 107). 
+
+This was the education that many mathematics students started receiving at the start of WW2 in France, among whom Gerard Debreu, future Nobel Prize winner. He received an education in line with the highly abstract and structured mathematics popularized by the Bourbaki. In contrast, when Debreu was first exposed to an Economics textbook, his reaction was quite underwhelming:
+
+> My first impression of economics was very disappointing because I was coming from a world of very sophisticated and rarified mathematics and found only a very pedestrian approach to economics. (Weintraub, 131-32)
+
+In 1950, Debreu joined the University of Chicago as part of the Cowles Commission. He joined the ranks of neoclassical economists, such as Tjalling Koopmans, who were mathematically inclined and who followed economic research in a Bourbakist direction. In 1954, Debreu co-published a foundational paper on the existence of an equilibrium in a competitive economy. By 1955, Weintraub argues, mathematical theory began to pervade the graduate economic theory studies. Indeed, in 1958, one textbook in graduate-level economics cites the Arrow-Debreu theorem - albeit without providing the proof - which showed a growing awareness of the theorem while eschewing the burden of disseminating the proof-based methodology. 
+
+Debreu took that burden head on publishing his own handbook of mathematical economics - similar in spirit to the Bourbaki volumes - that sought to show, in detail, all the steps required to prove his theorem. In this handbook, called "The Theory of Value", Debreu develops an economic theory built from the very first mathematical axioms and economic assumptions. And in its preface and introduction, he states:
+
+> They theory of value is treated here with the standards of rigor of the contemporary formalist school of mathematics. [...] Its reading requires, in principle, no knowledge of mathematics. (Debreu, 1959)
+
+Of course, this would be "in principle" true, but formal training in mathematics would surely go a long way to breach an abstract field,  especially for economists who, at the time, were only trained in calculus. That is all the more the case for other social scientists with an affinity for economics. If one can grasp the meaning of Smith's description of market forces as an "invisible hand" metaphorically working its magic on the group of butchers, brewers and bakers representing the economy, it is slightly harder to understand an economy described in the terms that Debreu does:
+
+> An economy E is defined by: for each i = 1,2,$\cdots$,m a non-empty subset $X_i$ of $R^l$ completely preordered by $\precsim_i$; for each j = 1,2,$\cdots$,n a non-empty subset of $Y_j$ of $R^l$; a point $\omega$ of $R^l$. A state of E is an (m+n)-tuple of points of $R^l$. (Debreu 1959, 75)
+
+One reader may say that this has nothing to do with the economic reality. Likely nobody would dispute that! It is merely a mathematical instrument. The community of mathematical economists would argue that the instruments used to prove some economically relevant concept, such as a general equilibrium in the economy, do not require economic interpretation. It suffices to have economic assumptions that are intuitive and general enough and then use the instruments in a logico-deductive chain to reach the solution corresponding to the desired economic concept. 
+
+While this reasoning seemed odd to most economists of the 1950s, the following decade erased those doubts and propelled mathematical economics into the mainstream academic thought. Weintraub conclusively states:
+
+> Economics by the 1960s had become a science of building, calibrating, tuning, testing and utilizing models constructed out of mathematical and statistical econometric materials. (Weintraub, 255) 
+
+### A bit more context
+
+It may seem just a twist of fate that Debreu and other mathematical economists - inspired by recent developments in the mathematics community - happened to gather in the prestigious American universities after WW2 to lay the foundations of modern economic theory. It may seem evident that it was a matter of time before some smart people would have understood the implications of set theory for the existence of a general equilibrium. But, frankly, if this was a historical accident, economics had a 50% chance to continue being a field whose primary methodology is qualitative, more influenced by political science than mathematics, and enamoured with grand theorizing about large social movements and the future of capitalism itself! There was more to it than just chance.
+
+In my mind, it seems obvious that the paradigm shift occurred in the 1950s: it occurred at the onset of the Cold War, it took place in the Western bloc's largest power, the United States, and it brought together people from all over the Western bloc's allies. Moreover, there was a clear effort on the part of the American government to create research units that could bring about the technological breakthroughs, security intelligence and general knowhow that would engender the military and economic domination of the United States over the Soviet Union. 
+
+One clear example is the RAND Corporation which was setup as a non-profit corporation whose research spanned many domains. According to their website, RAND researchers developed "theories and tools for decision-making under uncertainty" as well as "foundational contributions to game theory, mathematical modeling and simulation." The focus of this unit was on development of systems and mathematically sophisticated theories that could help in numerous areas from nuclear welfare strategies to economic analyses of social policy planning, health care, education and other such domestic issues. 
+
+It is no wonder, for example, that Debreu's "The Theory of Value" was sponsored by the RAND corporation (Debreu, xi), or that Arrow's research career began at the RAND corporation where he later remained a consultant (https://www.rand.org/news/press/2017/02/22.html). A governmentally spun corporation gave financial support and intellectual authority to their research, which then pushed the mainstream methodology towards the highly quantitative and mathematical direction that we know today.
+
+What also helped was that these researchers were not interested in debating the sustainability of the capitalist system, much like Schumpeter would do in 1942. Their working assumption was the indefinite existence of a capitalist system. Economics as a discipline stopped questioning the system and began understanding the laws that allow the system to function. Then, it is no wonder that main economics textbooks, at both graduate and undergraduate levels, stopped mentioning the word capitalism. As Heilbroner noticed, one can look in any Principles of Economics textbooks and the word is a mere invisible hand, floating in obscurity, with little power to sway the conversation. 
+
+### A word to conclude
+
+In Part 1 of this blog, I ended with the challenge of answering whether the mathematization of economics has been a useful endeavour. One answer would be to point out that it must be since we have been using this methodology for the past 60 years and there are no fundamental debates around it. I would like to weigh in more on the issue and I maybe will do so once I have myself learned this strand of literature and reach a better position to give an informed view on the matter.
+
+However, I will end with a funny quote from Alfred Marshall, which signals both the uses and abuses of mathematics in economics: 
+
+> [I had] a growing feeling in the later years of my work at the subject that a good mathematical theorem dealing with economic hypotheses was very unlikely to be good economics: and I went more and more on the rules-- (1) use mathematics as a short hand language, rather than as an engine of inquiry. (2) Keep to them till you have done. (3) Translate into English. (4). Then illustrate by examples that are important in real life. (5) Burn the mathematics. (6) If you can't succeed in four, burn three. This last I did often ... I think you should do all you can to prevent people from using mathematics in cases in which the English language is as short as the mathematical. (Groenewegen 1995, 413)
+

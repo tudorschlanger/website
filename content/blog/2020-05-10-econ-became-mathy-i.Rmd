@@ -1,0 +1,58 @@
+---
+author: "Tudor Schlanger"
+
+# The title of your post. Default value is generated
+# From the markdown filename
+title: "How Economics Became a Mathematical Science (I)"
+# The date the post was created
+date: "2020-05-10"
+# The post filename
+slug: "econ-became-mathy-i"
+# Post description used for seo
+description: ""
+# Post keywords used for seo
+keywords: ["History of Economic Thought"]
+# If true, the blog post will not be included in static build
+draft: false
+# Categorize your post with tags
+tags: ["History of Economic Thought"]
+# Uses math typesetting
+math: true
+# Includes a table of contents on screens >1024px
+toc: false
+
+---
+
+
+I have recently taken an interest into the history of economic thought. And in particular, I started pondering over the development of Economics into the mathematical social science it is today. The word *mathematical* is front and center here, because Economics -- unlike other disciplines such as sociology, anthropology or political studies -- makes a claim that it can use its rigorous, mathematical framework to study the fundamental forces underprining the economy. 
+
+However, this has not always been the case. At the end of the 18th century, when Adam Smith was writing his *Wealth of Nations (1776)*, Economics -- or rather, Political Economy as it was known then -- was a mere branch of moral philosophy. It sought to understand and present, in plain language rather than equations, the structure and laws of a nascent market economy. Nowadays, plain language is used to coat the central language of Economics which has arguably become mathematical and highly quantitative in nature. Today, top academic journals exclusively accept papers which enclose an analysis formalized by mathematical models. Indeed, a theory which is expounded in mere words would be considered imprecise, possibly logically incoherent, and unable to integrate the foundational literature of the past century -- which turns out to be quite mathematical!
+
+So how and when did this transition happen? To provide an answer to this question -- albeit a possibly superficial one --, I will heavily rely on two books that I have recently read: [The Worldly Philosophers](https://www.amazon.ca/Worldly-Philosophers-Lives-Economic-Thinkers/dp/068486214X) by Robert Heilbroner (RH), and [How Economics Became a Mathematical Science](https://www.dukeupress.edu/how-Economics-became-a-mathematical-science) by E. Roy Weintraub (RW), and I will also sample material from the [History of Economic Thought website](http://www.hetwebsite.net/het/) (HET) curated by the Institute for New Economic Thinking.
+
+### The Marshallians and The Marginalists
+
+A very brief answer that would indulge the cursory reader would be this: the transition started happening in the 1870s in Britain with the rise of two schools of thinking, the Marshallians and the Marginalists. 
+
+The first group draw their name from Alfred Marshall, a figure who dominated the field in the late 19th and early 20th century, but whose fame has recently subsided while one of his main contributions, the supply and demand curves, remains as iconic as ever in Econ 101 classes and in the mainstream media across the world. 
+
+Maybe of the reasons the supply and demand curves have become so popular are because of the graphical and intuitive perspective they provide on powerful market mechanisms. However, their simplicity belies the complexity (at least for 19th century standards) of the mathematical concepts underpinning them. These lines are derived from calculus which started becoming a powerful mathematical tool for Economics in that period. Yet, despite this level of analytical sophistication, Marshall and his followers "relied on practical, intuitive arguments rather than mathematical formalism." (HET) 
+
+This puts them in contrast to the Marginalists (or Jevonists). While Marshallians preferred talking about representative agents and firms, with a "degree of imprecision and incongruity which exasperated formal Jevonian economists" (HET), marginalists thought of idealized conditions, based on pure mathematical concepts. For example, "Walras proved that one could deduce by mathematics the exact prices that would just exactly clear the market" (RH) Then, at the same time as Jevons and Menger, he came up with the idea of diminishing marginal utility as the basis for demand and market exchange. 
+
+To make the math simple, the marginalists had to restrict the complexity of the world and tame its capricious nature. Where Smith, Ricardo and Marx painted the world in terms of workers, landlords and capitalists, the marginalist could only imagine one protagonist: a human being like no other, a hedonist par excellence, a pleasure machine that maximized their own welfare. This was the birth of *homo oeconomicus*, a purely rational individual representative of the whole society. On this point, Weintraub notes: "'The Marginalist Revolution' with its introduction of homo oeconomicus making consumption decisions at the margin, reshaped Economics into a modern science." 
+
+### Axioms and Formalism
+
+However, it is not at this point yet that Economics becomes a fully mathematical discipline, and this is because mathematics itself was not a fully developed and stable discipline itself! While people have been doing mathematics from millenia, many were worried about "the many unresolved paradoxes in set theory, logic and arithmetic" (RW) and sought to establish mathematics on solid ground in order to continue pursuing absolute scientific truth. Quite surprisingly, the birth of mathematical Economics arises at the same time as the incipient modern mathematical theory which took place in continental Europe during the first half of the 20th century. 
+
+Enter the stage: German mathematician David Hilbert. His agenda - called Hilbert's Formalist Program - attempted to resolve them by wiping the slate clean and start from scratch! The proposal was to start with certain basic axioms of arithmetic that were intuitively clear (even trivial), and deduce all current and future mathematical theorems from them. Additionally, in order to express the axioms and the logico-deductive chain of theorems flowing from them, one also needed a common and very accurate form of expression (hence *Formalism*). The clear-cut mathematical language would enable mathematics to grow organically and without error from the axioms, which he believed to build a fully consistent field of mathematics.^[As it turns out, the Holy Grail for consistency was completely discredited by Godel's incompleteness theorems: i) A consistent formal system where finite arithmetic operations can be performed is not complete. ii) A formal system cannot prove its consistency from within.]
+
+In Economics, consistency of the discipline as a whole is much less the focus -- after all, the discipline is notorious for offering Nobel prizes to completely antagonistic views. However, what matters more is internal consistency of a theory, starting from the axiomatic assumptions to the conclusion of the respective theory. What Economics inherited from the Hilbert's Formalist Program was the idea of establishing a theory on solid foundations. To prove this historical point, Weintraub argues that among the first applications of this axiomatic thinking comes from Hilbert's disciple, John von Neumann, in his pioneering work on game theory (1928) and subsequent publications on expected utility and general equilibrium. Other mathematical economists in the Vienna circles of the 1930s who were exposed to the Program also used the formal mathematical environment founded on axiomatic thinking to reform Economics. As one author, cited by Weintraub, claims:
+
+> In the program of redesigning Economics initiated in Vienna, the use of mathematics as a tool to attain [...] exact measurability and quantitative predictability of the values of economic variables yielded to the logical calculus. A model was reduced to a manipulation of essentially symbolic strings ...
+
+
+### A few words to conclude 
+
+It is at this point that modern economic theory is being erected, soaring highly and mightily above the vicissitudes of the real economy. This abstract environment of "symbolic strings" is fully divorced, both in shape and in content, from the realities of the economy or society. One might argue that it is strange how people believed in this new Program, why they found it useful at all, and why they decided to continue building on these foundations. In the next entry, I will be focused on the next building blocks, potentially trying to answer why this has been a useful endeavour, if at all. I will continue talking about the the Bourbaki movement, the foundational theorem of Arrow-Debreu and many other interesting stuff. Stay tuned!

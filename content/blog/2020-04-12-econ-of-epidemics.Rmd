@@ -1,0 +1,76 @@
+---
+author: "Tudor Schlanger"
+
+# The title of your post. Default value is generated
+# From the markdown filename
+title: "COVID-19 and the Economics of Epidemics"
+# The date the post was created
+date: 2020-04-14
+# The post filename
+slug: "econ-of-epidemics"
+# Post description used for seo
+description: ""
+# Post keywords used for seo
+keywords: ["COVID-19"]
+# If true, the blog post will not be included in static build
+draft: false
+# Categorize your post with tags
+tags: ["COVID-19"]
+# Uses math typesetting
+math: true
+# Includes a table of contents on screens >1024px
+toc: false
+---
+
+
+As the COVID-19 containment measures locked us all inside, I decided to unlock some of my thoughts and put them on my newly minted personal website. The thoughts laid out here are about this very crisis. In essence, I talk about how a government-induced economic crisis allows society to save lives and improve the longer-run economic prospects compared to a laissez-faire scenario.
+
+### A very curious crisis
+
+These are certainly interesting times to be an economist. The world economy is faced with a crisis that may be at least as severe as the 1929-1930 Great Depression in terms of the immediate impact it has on output and employment. Yet, rather curiously, it has nothing in common with most of the crises that have occurred since then. 
+
+Economic crises are caused by some sort of economic shock that reveals a vulnerability of the economic system. Sometimes, it is a financial crisis stemming from a vulnerability in the housing market (the US-born 2008 recession), other times a crisis induced by an oil price shock (1970s oil crisis recessions). Some countries witness capital flight following extensive current account deficits (1997 Asian crisis), other countries are plunged into recession as the government defaults on its debt (2001 Argentian crisis). Across the board, there seems to be an underlying weakness that allows the domino structure to unravel in the aftermath of a shock. 
+
+In 2020, the economic shock reveals nothing about fundamental economic phenomena. This time, we entered a worldwide government-induced economic crisis. And happily so! In absence of the governments' containment measures, the human loss would have been calamitous. Yet, it remains that there is a calamitous economic crisis too, and the purpose of the remaining parts is to understand if we can reconcile the health and economic objectives. I argue that we can achieve that if we think about the long-term economic gain.
+
+### Two seemingly conflicting objectives
+
+The first objective, the one that takes moral precedence, is to preserve as many human lives as possible. This concerns us all. Even if the virus has disproportionately affected the elderly and people with pre-existing conditions, it has not left any age group [unscathed](https://www.vox.com/2020/3/23/21190033/coronavirus-covid-19-deaths-by-age). From this consideration only, the containment is legitimate and should last as long as needed. 
+
+The second objective is to preserve the economic wellbeing of society. No doubt, these are two conflicting forces and we can clearly notice that we are currently sacrificing some of the economic aspect. In Canada, after the introduction of containment measures, unemployment rates have [sky-rocketed](https://www.cbc.ca/news/business/coronavirus-employment-insurance-1.5504676) and Gross Domestic Product (GDP) is forecast to [fall precipitously faster](https://www.pbo-dpb.gc.ca/web/default/files/Documents/Reports/RP-1920-033-S/RP-1920-033-S_en.pdf) than it did in the 2008 Great Recession. 
+
+Under these circumstances, it is tempting to forget why we care about the first objective. One might think that to shut down businesses is unfair, to take away people's means of living is draconian, and to bar people from letting some steam off by imposing social distancing regulations is downright mean. In sum, [the cure seems worse than the problem itself](https://www.nytimes.com/2020/03/23/us/politics/trump-coronavirus-restrictions.html). A Texas official even attempted to normalize the idea of [sacrificing the elder generation](https://www.vanityfair.com/news/2020/03/dan-patrick-coronavirus-grandparents) for the benefit of the current one.
+
+However, the short-term trade-off may not be as tribal as sacrificing people for money. More than that, there are very good reasons why favouring people's lives can reinforce the second objective in the long-term. 
+
+### Some insights from the economics of epidemics
+
+In the past few months, the literature on the economics of epidemics has blossomed, many economists stating their view on what the right course of action is and giving some policy recommendations. One of the best coordinated response is found in a compilation of articles, Mitigating the COVID Economic Crisis: Act Fast and Do Whatever It Takes, edited by **[Baldwin and Weder di Mauro (2020)](https://voxeu.org/content/mitigating-covid-economic-crisis-act-fast-and-do-whatever-it-takes)**. The subtitle gives it all away, urging policy makers worldwide to heed the advice of overburdened medical systems to move towards social isolation and provide, in the meantime, as much economic relief as possible.
+
+In a more formal argument, **[Eichenbaum, Rebelo and Trabandt (2020)](https://ideas.repec.org/p/nbr/nberwo/26882.html)** give a rationale for why it is optimal, from an economic point of view, to apply containment measures as soon as possible. They enhance a standard epidemiological model with a macroeconomic block which allows them to link consumption and work to the infection rate of the virus. Hence, the virus appears as an externality that individuals create when participating in economic activities. 
+
+The social planner can internalize this externality but it is faced with a tradeoff. It chooses between allowing individuals to get utility from consumption in the short-term and applying containment measures in order to reduce the infection and mortality rate (which are utility decreasing) until treatment and vaccines are available. Seeking to maximize social welfare, the model predicts that the social planner would implement containment measures early and keep them for a long time. 
+
+The authors also consider the alternative of cutting the containment measures short, but advise against it by stating the following: 
+
+ >  [...] Prematurely abandoning containment brings about a temporary rise in consumption
+  but no long-lasting economic benefits. Tragically, abandonment leads to a substantial rise
+  in the total number of deaths caused by the epidemic. [...] We conclude
+  that it is important for policymakers to resist the temptation to pursue transient economic
+  gains associated with abandoning containment measures.
+
+ 
+### Looping back to the two objectives
+
+The two objectives, supporting good health outcomes and avoiding economic strife, can be seen as complementary. It is necessary to keep people safe from the virus's way as quickly as possible in order to improve their economic welfare in the long run. A delayed action or an abrupt end allows the epidemic to spread again leading to more human and economic losses. It can only prolong the state of uncertainty and initiate a vicious cycle of depression. Not to mention that additional policy intervention in the form of monetary and fiscal policy may not be as effective anymore. There's also limit to how much debt a state can incur to keep the whole economy on the life line. 
+As it often the case in the dismal world of economics, we can merely choose the least bad option. And that seems to be staying locked in until further notice.
+
+
+
+
+
+
+
+
+
+

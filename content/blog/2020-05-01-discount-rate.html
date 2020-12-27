@@ -1,0 +1,95 @@
+---
+author: "Tudor Schlanger"
+
+# The title of your post. Default value is generated
+# From the markdown filename
+title: "Optimal Choice, Discount Rates, and Climate Change Action"
+# The date the post was created
+date: "2020-05-01"
+# The post filename
+slug: "discount-rate"
+# Post description used for seo
+description: ""
+# Post keywords used for seo
+keywords: ["Climate Change", "Discount Rate", "Optimal Choice", "DICE"]
+# If true, the blog post will not be included in static build
+draft: false
+# Categorize your post with tags
+tags: ["climate change", "discount rate", "optimal choice", "dice"]
+# Uses math typesetting
+math: true
+# Includes a table of contents on screens >1024px
+toc: false
+---
+
+
+
+<div id="in-the-previous-episode" class="section level3">
+<h3>In the previous episode …</h3>
+<p>In my previous <strong><a href="/blog/tragedy-of-horizons/">post</a></strong>, I was emphasizing that the time period matters when considering to internalize a certain externality. In the perpetual cost-benefit analysis that people make between present and future, people put a higher emphasis on the benefits accruing in the present and a lesser emphasis on future costs. For this reason, people can easily coalesce in favour of limiting the damage of the Covid-19 virus, but can fail to do so against a more distant threat such as climate change.</p>
+<p>In this post, I want to dig a bit deeper into how exactly a society – as an aggregate entity – makes these decisions. I am going to describe the result of this decision as <strong>optimal</strong>, and I am going to assess the importance of a key concept in any optimization across time: the <strong>discount rate</strong>. To best illustrate these points, I am going to rely on a climate model, DICE, and publish some results of the model.</p>
+</div>
+<div id="theres-optimal-and-optimal" class="section level3">
+<h3>There’s optimal, and optimal</h3>
+<p>Assume that a society, as a whole, acts as one rational individual. This society often faces certain options <em>today</em> that will affect its members <em>in the future</em>. For example, a policy introduced today may yield benefits in the present, but can have ripple negative effects distributed across time. Alternatively, some policy may have a bitter taste today, but it may be a great medecine for the days to come. Whatever the case, there is a trade-off that occurs across time. Otherwise, we would be able to infinitely improve our condition!</p>
+<p>Take a personal example that may seem all too familiar: I like Oreo cookies, and I would benefit from increasing my intake of such cookies. But I cannot increase this to infinity because I would either have a prolonged stomach ache in the next hours or days, or I would simply run out of cash rendering me unable to buy other goods that are essential to my wellbeing and survival. And I need to survive in order to eat more Oreo cookies. This means I need to find just the <em>right</em> amount of Oreo cookies I can eat to make me the happiest I can be.</p>
+<p>Society is much like an Oreo-afficionado: for any policy option it is faced with, there is a certain level of action that is doing neither too little (i.e. it could still reap benefits with little costs now or in the future), nor too much (i.e. the costs have exceeded the benefits). This Goldilocks level is what economists refer to as <strong>optimal</strong> level. This is the level that maximizes the welfare of a society by taking into account the infinite series of costs and benefits that arise from that policy decision.</p>
+<p>This is a distinct concept from the general use of the word “optimal.” The definition that the Merriam Webster dictionary gives is “most desirable or satisfactory”. This does not really capture the economic meaning I was identifying above. If I wanted employ the common use of the word using the Oreo example, I would say: “Those were optimal conditions to enjoy my Oreo.” Notice that here, there is no sense in which I can choose my conditions in order to maximize the benefits and minimize the costs of consuming an Oreo. It is rather a statement about my preferences rather than a level of satisfaction I can actively maximize. By this I mean that I cannot do more of those conditions to increase my Oreo satisfaction (or to lower it for that matter). It is just a desirable goal. This is different from saying: “I had the optimal number of Oreos.” In this case, there is always a way to increase the consumption of Oreos to get there and always a way to fall off that satitisfaction peak by having one Oreo too many. This is an important point that I will come back to later in the post.</p>
+<p>Now, the point of this trade-off is that it deals with costs and benefits incurred at different times. We need to introduce a tool that would allow us to properly compare present and future terms. This is the crucial role of the discount rate!</p>
+</div>
+<div id="a-short-foray-into-discount-world" class="section level3">
+<h3>A short foray into discount world</h3>
+<p>The basic idea here is that not all future benefits or costs are equal to current ones. We care less about what happens in the future than we care about what happens today. $1 million is great, but not in 50 years! Any dollar value in the future is just less valuable than in the present (disregarding inflationary effects). For that reason, we discount that dollar value.</p>
+<p>Let’s assume that you care only half as much about next year as you do about this year. That means that $1 next year is equal to $0.50 this year (again, let’s assume we’ve already factored in inflation). Then, we would divide any value in one year from now by half. Hence, the discount rate, <span class="math inline">\(\rho\)</span>, is given by:</p>
+<p><span class="math display">\[\frac{1}{(1+\rho)^1} = \frac{1}{2}\]</span></p>
+<p>which implies:</p>
+<p><span class="math display">\[\rho = 1  \text{ or } \rho = 100 \%\]</span>
+Maybe this is a bit too extreme, so we may want to consider other horizons, and apply the formula above to get our discount rate:</p>
+<ul>
+<li>If I care about <strong>five</strong> years in the future half as much as I care about the present, then <span class="math inline">\(\rho = 14.9\%\)</span></li>
+<li>If I care about <strong>ten</strong> years in the future half as much as I care about the present, then <span class="math inline">\(\rho = 7\%\)</span></li>
+<li>If I care about <strong>fifty</strong> years in the future half as much as I care about the present, then <span class="math inline">\(\rho = 1.4\%\)</span></li>
+</ul>
+<p>How much we care about the future matters for the decisions we make. A very low valuation of the future (high discount rate) would make me eat more Oreos now with little concern for my health in the next few years. That’s because costs don’t matter that much in the future. While a very high valuation (low discount rate) would make me eat some Oreos and sell the rest to people with lower valuations! Certainly, it is hard to know how much we value the future and to assign a precise number to it. However, we could assume that, unbeknownst to us, there is one such discount rate for each one of us. This number implicitly guides our decisions.</p>
+<p>If it is hard to estimate this value for an individual, it is even harder to do so for a whole society. Yet, this has never discouraged an economist from trying! This mathematical tool is highly useful in the certain economic studies that feed directly into practical policy matters (see cost-benefit analyses) and in economic models that allow us to understand what should be a society’s optimal choice.</p>
+<p>To illustrate the importance of the discount rate in optimal decision-making, I will use the DICE model as an example.</p>
+</div>
+<div id="dice-a-representation-of-societys-optimal-choice" class="section level3">
+<h3>DICE: A representation of society’s optimal choice</h3>
+<p>DICE stands for Dynamic Integrated model of Climate and the Economy. It is arguably the most famous climate model as it was the first one to connect the world economy to carbon emissions to rising temperatures, and consequently, to future economic damages. DICE has been developed and updated by William Nordhaus, Nobel laureate, over the past 30 years, and its latest version is publicly available on his <strong><a href="https://sites.google.com/site/williamdnordhaus/dice-rice">website</a></strong>.</p>
+<p>DICE is modelled to act like a society – a global aggregate entity – that is faced with a trade-off. The benefits of having economic growth and higher incomes in the present come at the cost of more frequent climate shocks (e.g. severe heat waves, higher sea levels) likely to cause destruction of infrastructure, output, productivity in the future. Hence, the model has to take stock of the series of benefits and costs in the world economy, discount all of them, and decide on the path of economic growth a society ought to choose such that it maximizes economic welfare across time. In other words, the models indicates the <em>optimal</em> choice.</p>
+<p>It is clear that we cannot stop all economic activity right now because the world would collapse. Nor can we continue at full speed in pushing emissions into the atmosphere without consideration for the future. It is some level in between. The optimal choice is arguably simplistic because it relies on reducing or increasing output, which is achieved by introducing a carbon tax on output. It does not include emission restrictions or our ability to create technologies that can mitigate the emissions. Restrictions are politically taxing, and technologies like this are still under development; it seems reasonable reasonable to say that society’s optimal choice largely depends on this one policy lever which is the carbon tax.</p>
+<p>How does the model decide on that optimal choice? Well, one of the main ingredients is the discount rate we have seen earlier! The higher the discount rate, the less we care about the future, so the lower the taxes on carbon the society wants to implement today. The lower the discount rate, the more the society wants a future with less extreme temperatures - hence it would choose higher taxes today. This would effectively internalize the externalities of carbon emissions!</p>
+<p>Notice, while the model makes an optimal choice, it is not imposing any “desirable” level of taxation or temperatures. It is not “optimal” in the common sense of the word. It is not making any normative statements about what the ideal conditions are. Remember the Oreo distinction I was making earlier? The optimal choice is simply describing what society should do to maximize a series of benefits and costs given their implicit discount rates and the assumptions we make about how the economy works.</p>
+</div>
+<div id="dicey-predictions-about-the-future" class="section level3">
+<h3>DICEy predictions about the future</h3>
+<p>Now, for the actual results, and how I got there.</p>
+<p>I have run the model in GAMS, an optimization software that DICE was originally implemented in. While this is considered the “authoritative version”, GAMS licenses are prohibitively costly, but I have seen some adaptations in open-source languages such as <a href="https://github.com/olugovoy/climatedice/blob/master/Julia/DICE2016inJulia.jl">Julia</a> and <a href="https://github.com/Shivamshaiv/Python-DICE">Python</a>. I don’t vouch for their validity but comparing them against the latest GAMS version would be a great exercise that I will read to the reader (or my future self)!</p>
+<p>I ran multiple versions of the model:</p>
+<ul>
+<li><strong>Baseline</strong>: There is a global carbon tax that grows at a rate of 2% yearly, in line with current government practices/promises. This is not optimal.</li>
+<li><strong>Optimal</strong>: The model yields the optimal level of carbon taxation and applies it to the economy. Discount rate is 1.5% (this is equivalent to saying: “I care about <strong>fifty</strong> years in the future half as much as I care about the present”)</li>
+<li><strong>Optimal_stern</strong>: The model yields optimal level of carbon taxation. Discount rate is 0.1% as suggested by the Stern Review.</li>
+<li><strong>Optimal_0</strong>: The model yields optimal level of carbon taxation. Discount rate is 0% meaning we care about the future just as much as we care about the present.</li>
+</ul>
+<p>A few key take-aways from these graphs:</p>
+<ul>
+<li>The lower the discount rate, the more drastic the increase in the carbon tax</li>
+<li>For a discount rate of zero, society would choose to reduce emissions to zero tonnes of CO2 by 2060</li>
+<li>Unfortunately, this path wouldn’t keep temperatures below the 2 degree Celsius target that world leaders had set at the 2015 Paris Agreement</li>
+<li>However, a simple shift in public opinion across the world whereby the future is more valuable can have an impact! For instance, dropping the discount rate from 1.5% to 0% makes policy act such that temperatures are lowered by almost 1 degree C by 2100.</li>
+</ul>
+<pre><code>## Warning: package &#39;ggplot2&#39; was built under R version 4.0.3</code></pre>
+<pre><code>## Warning: package &#39;ggpubr&#39; was built under R version 4.0.3</code></pre>
+<pre><code>## Warning: package &#39;viridis&#39; was built under R version 4.0.3</code></pre>
+<pre><code>## Warning: package &#39;viridisLite&#39; was built under R version 4.0.3</code></pre>
+<p><img src="/blog/2020-05-01-discount-rate_files/figure-html/plotdata-1.png" width="672" />
+Units:</p>
+<ul>
+<li>carbon price: $/tonnes of CO2</li>
+<li>emissions: Giga tonnes of CO2</li>
+<li>temperature: degrees Celsius above 1900 level</li>
+<li>damages as % of GDP: ratio of $ value damages to gross nominal GDP</li>
+</ul>
+</div>
