@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>codex</title>
+    <link>https://tudorschlanger.com/</link>
+    <description>Recent content on codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020. All rights reserved. The views expressed on this website are solely my own. No responsibility for them should be attributed to the Bank of Canada.</copyright>
+    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://tudorschlanger.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Economics Became a Mathematical Science (II)</title>
+      <link>https://tudorschlanger.com/blog/econ-became-mathy-ii/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tudorschlanger.com/blog/econ-became-mathy-ii/</guid>
+      <description>In the previous entry, I ended on the birth of a new era for both mathematics and an incipient branch of economics, namely mathematical economics. Both born out of Hilbert’s Formalist Program, both seeking purity and clarity above all, and in so doing, both inching away from worldly concerns. Before I proceed the inquiry into how the then-germinating strand of economics now claims so much of the methodological space of the discipline, I want to provide some background of the 30s and 40s landscape.</description>
+    </item>
+    
+    <item>
+      <title>How Economics Became a Mathematical Science (I)</title>
+      <link>https://tudorschlanger.com/blog/econ-became-mathy-i/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tudorschlanger.com/blog/econ-became-mathy-i/</guid>
+      <description>I have recently taken an interest into the history of economic thought. And in particular, I started pondering over the development of Economics into the mathematical social science it is today. The word mathematical is front and center here, because Economics – unlike other disciplines such as sociology, anthropology or political studies – makes a claim that it can use its rigorous, mathematical framework to study the fundamental forces underprining the economy.</description>
+    </item>
+    
+    <item>
+      <title>Optimal Choice, Discount Rates, and Climate Change Action</title>
+      <link>https://tudorschlanger.com/blog/discount-rate/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tudorschlanger.com/blog/discount-rate/</guid>
+      <description>In the previous episode …In my previous post, I was emphasizing that the time period matters when considering to internalize a certain externality. In the perpetual cost-benefit analysis that people make between present and future, people put a higher emphasis on the benefits accruing in the present and a lesser emphasis on future costs. For this reason, people can easily coalesce in favour of limiting the damage of the Covid-19 virus, but can fail to do so against a more distant threat such as climate change.</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 and the Economics of Epidemics</title>
+      <link>https://tudorschlanger.com/blog/econ-of-epidemics/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tudorschlanger.com/blog/econ-of-epidemics/</guid>
+      <description>As the COVID-19 containment measures locked us all inside, I decided to unlock some of my thoughts and put them on my newly minted personal website. The thoughts laid out here are about this very crisis. In essence, I talk about how a government-induced economic crisis allows society to save lives and improve the longer-run economic prospects compared to a laissez-faire scenario.
+A very curious crisisThese are certainly interesting times to be an economist.</description>
+    </item>
+    
+  </channel>
+</rss>
