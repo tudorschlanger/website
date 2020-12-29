@@ -19,6 +19,7 @@
       {{ .Params.subheading }}<span class="fancy">...</span>
     </h2>
 
+
     {{ if isset .Params "text1" }}
     <h3>
       {{ .Params.text1 }}
@@ -41,6 +42,10 @@
     {{ partial "social-icons.html" .}}
     
   </div>
+  
+
 </div>
+{{ partial "footer" .}}
 
 {{ end }}
+

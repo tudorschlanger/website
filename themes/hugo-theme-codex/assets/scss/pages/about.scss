@@ -43,16 +43,25 @@
 }
 
 .handle {
-  display: inline-block;
-  margin-top: 0.275em;
-  color: $grey;
-  letter-spacing: 0.5px;
+    font-size: 0.8em;
+    font-weight: 100;
+    line-height: 3;
+    letter-spacing: 0em;
+    max-width: 40em;
+    justify-content: center;
+    align-items: center;
+    margin: 0rem;
 }
 
 
 .writing {
   text-decoration: none;
   color: $primary;
+}
+
+.profilePic {
+  justify-content: right;
+  align-items: right;
 }
 
 /* overrides */
