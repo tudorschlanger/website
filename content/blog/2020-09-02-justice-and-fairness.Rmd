@@ -1,0 +1,112 @@
+---
+author: "Tudor Schlanger"
+
+# The title of your post. Default value is generated
+# From the markdown filename
+title: "Justice and Fairness"
+# The date the post was created
+date: "2020-09-02"
+# The post filename
+slug: "justice-and-fairness"
+# Post description used for seo
+description: ""
+# Post keywords used for seo
+keywords: ["ECON 101", "Political Philosophy"]
+# If true, the blog post will not be included in static build
+draft: false
+# Categorize your post with tags
+tags: ["ECON 101", "Political Philosophy"]
+# Uses math typesetting
+math: true
+# Includes a table of contents on screens >1024px
+toc: false
+---
+
+*This entry is the **second** of a two-part lecture written for the Econ 101 2020W class at the University of British Columbia, co-authored with Christina (Kit) Schwartz and Mauricio Drelichman.* 
+
+In the last reading, we looked at matters of efficiency and equality, and we noticed that in extreme cases there is an inherent trade-off between the two. For instance, in the agrarian world where both apple and grape production are allocated to Tanya because of her extraordinary productivity and Joseph is given nothing, this distribution of production and, consequently, the distribution of wealth is as unequal as possible. Joseph would have to beg Tanya for his survival. On the other hand, if we assume that an imaginary government completely equalizes the wealth among the two, by taxing Tanya and redistributing to Joseph, efficiency may suffer. Tanya may be discouraged by much of her labour going to Joseph to the extent that she could go on a strike, production sputtering to a halt. The outcome would be inefficient and affect both parties’ welfare. 
+
+Yet, so far, we have assumed we can distribute resources in society willy-nilly with no basis for doing so other than providing really good examples for our Econ 101 class. These were just two arbitrary examples of possible allocations, and of course there are an infinite set of possible distributions that lie between these two extremes. The question is, how do we non-arbitrarily decide on the fair distribution? This is no longer the positive question of finding a distribution that will maximize output (give all resources to Tanya), but rather a normative question of what distribution of resources is fair according to our values as a society. Hence, what we need is a few guiding principles to help us choose such a distribution.
+
+In this reading, we will use the concept of justice to describe this idea of fairness. We will discuss the merit of a distribution from the perspective of multiple theories of justice, some of which you are already —although informally— familiar with. We will just give them a name and flesh them out. 
+
+### A stylized example
+
+Imagine Eustache is born into an upper-middle-class family with two parents who invest lots of time and energy into his education and personal development. He is enrolled in sports, has his own laptop, and is not allowed to play with friends until his homework is done. He graduates with great grades and gets admission to an Ivy League school. He eventually starts his own company and ends up as the CEO of a large corporation that distributes products through an online shopping platform. He earns $10 million each year, putting him right at the top of the income distribution. 
+
+At the same time, Muriel is born to a single mother in a poor urban area. She doesn’t have a lot of resources growing up — she goes to a low-quality school, stays up late on weeknights to help her mother at her cleaning job, and eventually fails out of high school. She works a few part-time jobs, and eventually ends up working in a warehouse where the going wage is $10/hr. We would easily agree she is at the bottom of the income distribution.
+
+Now, the key question is: do we accept this distribution of resources to be fair? And if not, how would we structure the institutions of society to create a distribution that we do consider fair?
+
+### Libertarianism and Market solutions
+
+The first theory of justice we’ll look at is the libertarian approach, the name of which derives from the word ‘liberty’. As you shall see, the core idea of libertarianism is individual freedom.
+Libertarianism states that all persons are possessed of equality and freedom to live as they please, so long as their actions do not infringe on others’ freedom to do the same. 
+
+In the context of the distribution of economic resources, we need to look at the process that produced the given distribution and ask: has this process respected and promoted people’s individuals’ freedom? It doesn’t matter what the outcome is as long as the process that led to the outcome respects every party’s freedom in the chain of transactions that led to that outcome. You may then wonder what exactly we mean by a just process that respects individual freedoms. 
+
+To answer that, we turn to libertarian political philosopher, Robert Nozick, who describes a just process based on three principles: 
+1.	justice in the original acquisition of holdings
+2.	justice in the transfer of holdings
+3.	justice in rectification of violations of the first two principles
+
+The most frequently applicable of Nozick’s principles is the second one regarding just transaction. For instance, working - i.e. transacting one’s labour for money - is an acceptable transaction when both parties freely consent to the transaction which occurs on the labour market. Or even our daily purchases of goods and services are just transactions that occur in different markets. To generalize this concept, any transaction that occurs on a market which respects everyone’s freedoms and rights is acceptable. For this reason, Nozick views markets as just institutions. On the other hand, transactions that occur under coercion evidently do not meet the conditions for a just transfer. Theft and slavery are examples of transactions that transgress this principle. 
+
+Now, going back to our stylized example: according to the libertarian idea of justice, Eustache’s wealth and Muriel’s poverty are entirely fair outcomes if the steps leading to this outcome were fair. Eustache happened to be born in an affluent family, and his parents freely spent their justly-earned money on his education. Investors freely chose to invest in his corporation, and consumers freely chose to purchase his products and thereby give him a profit. Nothing Eustache did to earn his wealth was intrinsically unfair —as long as he did not steal or cheat, he is entitled to his wealth. 
+
+By attempting to rectify this seemingly unfair distribution, the government would actually introduce unfairness, by infringing on his individual liberty. Taxing Eustache for Muriel’s benefit would infringe on his right to own property and his freedom to sell it to others on the market. It would trample on his rights to own his parents’ bequest, or maybe other people’s gifts and donations. This is the key reason why libertarians do not support redistribution — shifting resources from person to person violates the principles of liberty and equality. It violates the principle of liberty by overriding individuals’ rights (Eustache’s right to his wealth), and it violates the principle of equality because whoever is in charge of redistribution (in modern nation-states, the government) has arbitrary power over others (by choosing what to take, how much to take, and who to take from).
+
+As stated earlier, libertarianism trusts the market as an institution that leads to a just distribution by allowing people to voluntarily transact on it. However, to further ensure that everyone has an equal opportunity to freely transact, one should think critically about any market barriers. What if Eustache had opportunities and advantages unavailable to Muriel because of her gender or race? That would violate the principles of freedom and equality, and it would mean part of the wealth acquired by Eustache springs from unfair advantages.  
+
+So in order to ensure fairness, we have to provide formal equality of opportunity. We should make sure that all positions in society are open to any qualified individual, regardless of a person’s background. Ivy League admissions should be open to everyone with the requisite preparation so they can attain a higher economic status. The labour market should pay workers for what they are worth and discriminate only based on economic characteristics (for example, a worker’s productivity). CEO positions should be open to everyone with the ability to lead a company. If we ascertain that everything in Muriel’s and Eustache’s lives went according to this principle, then their current position in the income distribution is fair, and we need not —nay, we must not— act to remedy it. 
+
+Following these guiding principles, not only have we achieved a fair situation from the standpoint of libertarianism, but arguably we have also played in favour of efficiency. Since everyone has access to the market where they make free choices and act according to their incentives, the market will arrange such that the economy makes best use of their productive capacity (the Coase Theorem tells us so). Muriel would not be very efficient in being a CEO since she does not have the required knowledge or skills, while Eustache would be likely underutilized by the economy if his skills were put to the test in a warehouse. And voilà, we reached an efficient allocation of labour resources through the competitive labour market. 
+
+On a more practical level, a libertarian economy also increases efficiency simply because the process of redistribution is inefficient. Collecting taxes, verifying eligibility for welfare, litigating tax fraud, and political lobbying for grants all use resources that could be better spent elsewhere. Additionally, since governments cannot be all-knowing about individuals' productivity and preferences, the way in which they distribute resources is not guaranteed to maximize productivity. In fact, the economist Friedrich Hayek argued that a government cannot maximize productivity, because this problem of information is so insurmountable. So we see that practically, either through administrative waste or inefficient allocation, economies predicated on redistribution will be less efficient than those that operate purely on free markets.
+
+### The Meritocratic thought experiment
+
+There is a reason why “equality of opportunity” is qualified by the word formal in the above discussion. There is no de facto sense in which Muriel and Eustache had the same opportunities. It is clear that even if education (Ivy League seats) and jobs (CEO positions) are in principle open to people of any background, they are hardly accessible to everyone. Muriel did not have the financial resources, the mentorship and guidance, or simply the social and cultural capital that Eustache had all throughout his youth. Muriel never had the opportunity to hone the skills, the mentality or the confidence of growing into a CEO role. But she may have had the ambition to do so! If only she had had the chance...
+
+The meritocratic theory of justice is centered around this very wish: what if we reset everyone’s status and then gave everyone the same starting point? For example, we give Muriel and Eustache the same education, same laptop, same guidance, and we put equal resources and effort into their success. Then we let the game of Life begin. At the end of the simulation, we would expect that any differences in outcome are based on aspects that are internal to each individual: their talents, their determination and their efforts. If Muriel was Eustache’s sister and got the same starting package, there is nothing that would prohibit her from becoming a CEO (assuming the rules are fair, e.g. complete gender equality). Everything would be up to her, so whatever she chooses to do and wherever she ends up in the income distribution would be fair. 
+
+### Rawlsian theory of justice
+
+Enter the scene: political philosopher John Rawls. 
+
+Rawls would question the fairness of gains arising from talents. Why is it fair that someone, who is naturally endowed with some talent, get ahead of me? There is a certain unfairness in the arbitrariness of talent allocation in society, and our inability to acquire those talents when we are not initially endowed with them (it’s too bad we cannot trade talents on the market, yet). 
+
+In fact, Rawls goes one step further by stating that even traits such as grit and the ability to exert effort are talents, not easily acquired, endowed by Nature in an arbitrary fashion. For example, some university students may simply be lazier than others by birth - they have known and fought this all their lives, sometimes to no avail. Is that any of their doing then? Is it fair then that some hard-working students get the awards and recognition?
+
+To answer these questions, Rawls asks us to take a step back and consider the following thought experiment:
+
+Imagine that the game of Life will start soon, and everyone is behind a Veil of Ignorance which does not allow us to see what position we will occupy in Life. We cannot know what sex we will be assigned, whether we will be born in a rich family, whether we will be talented or tall or aesthetically pleasing, what colour our skin will be. In a nutshell, we do not know our initial endowment. In this original position, we have to start thinking about what we would like the rules of Life to be. We have to design a system with certain institutions and rules that will distribute rights and resources to us such that whoever we become in the game of Life, we benefit the most from them. Presumably, we wouldn’t want to create a society that treats a specific group of people poorly because we may become part of that group when the game of Life begins. So we have to think carefully!
+
+Take a 5-minute break and think about it before continuing this reading. 
+
+Before we reach Rawls’s vision for a just society behind the Veil of Ignorance, do you think you would accept Libertarianism behind the veil? Or Meritocracy? A lot of people are risk averse and they surely wouldn’t want to risk the chance of being born poor or in a highly disadvantaged racial minority. They wouldn’t want to risk having less than average academic inclinations, or artistic talents, they wouldn’t want to have poor physical and mental well-being. 
+
+Yet some of you may think that they would take their chances. They believe in effort and their grit more than anything. That carried them throughout their lives and they bet that wherever they end up once the Veil of Ignorance is lifted that they can improve their situation and climb up the ladder of Life. That is their prerogative, and if it so appeals to their sense of justice, it may very well be warranted. However, Rawls would ask them once more: are they sure they would be as hard-working and driven in Life (after the Veil) as in their current life? How can they be sure that they wouldn’t lack that power to exert effort? The lottery of birth may not be as kind to them. In fact, there are some studies that suggest first-borns are the most successful siblings because they tend to be more outgoing and motivated than later-born siblings, and also have higher IQ scores on average (Black, Grönqvist and Öckert, 2016; Black, Devereux and Salvanes 2007). Even such a random thing as birth order may derail the hopes and dreams harboured behind the Veil of Ignorance! 
+
+Here is what Rawls claims that most people would say behind the Veil of Ignorance. He says that first of all we all need to be equal in rights and freedoms. This means that everyone should have freedom of speech, of thought, of assembly, of holding office and voting, of owning property and selling on the market, and so on. We have access to these liberties insofar as they don’t preclude others from exercising these same liberties. Does this sound familiar? Hopefully so, because these rights are also accepted under the Libertarian or Meritocratic theories. Let’s write down this First Principle: 
+
+>Each person is to have an equal right to the most extensive total scheme of equal basic liberties compatible with a similar scheme of liberty for all.
+
+Then, Rawls says: but should we all have equal distributive shares? Would we want to have a completely egalitarian society behind the Veil of Ignorance? Do we want to tax and redistribute to such an extent that we abolish all economic inequalities? We hear libertarians gasp! They might say it’s not fair because Eustache put at least some work in, and so he deserves some extra reward for that. But that is not Rawls’ argument. 
+
+Rawls says that this isn’t the right outcome because Eustache’s wealth, in the hands of Eustache, actually benefits society, and by taking it away from him we would hurt society. Billions of consumers around the world can buy cheap products because of Eustache’s fancy online platform. So if we want to let Eustache keep some of his wealth since he is using it beneficially, how do we decide the right amount to take away from him? Rawls says he can keep whatever amount of wealth which, in his hands, still creates benefits for the least well off in society.  We will call this the Difference Principle:
+
+>Social and economic inequalities are to be arranged so that they are both to the greatest benefit of the least advantaged.
+
+Eustache can keep his money so long as he is investing it in companies that provide services valued by consumers, or using it for R&D in technologies that enhance standards of living. Alternatively, if we consider that Eustache is not helping the least well off (since they might not even be able to work for his company or buy the goods sold on his platform), then we can consider taxing part of Eustache’s wealth and income and transfer it directly to the people in need. 
+
+The Difference Principle comes out of the fact that, behind the Veil of Ignorance, society would likely decide that everyone has a certain right to live, at least at a bare minimum standard of living. Dismal poverty shakes our sense of fairness, partly because it dehumanizes us and reduces our self-respect. We would feel lesser than others by mere differences in material wealth. Most behind the Veil would not want to risk being in that state of deprivation. 
+
+### Conclusion
+
+In this lecture, we have more closely looked at issues of distributive justice. We have learned about three different views: Libertarianism, Meritocracy, and Rawlsian justice. Needless to say, none of them is the ‘right’ one. They each appeal to different sensibilities, and different ideas of justice. No matter which version you choose to embrace, you now have some tools to think about the market outcomes that you will be studying over the next few weeks, and how they can be interpreted through the lens of fairness.
+
+In a way, this lecture should be taken as an important challenge to think critically about the issues you are studying and possibly researching in the future! The economist’s job is typically perceived as trying to maximize efficiency and to move towards a first-best world ideally suited for the rational homo oeconomicus among us. However, if anything, this lecture has shown that, perhaps more important than the positive question of how to maximize output, is the normative question of how to distribute output. We can end on a short quote by John Maynard Keynes:
+
+>the master-economist must possess a rare combination of gifts. He must be mathematician, historian, statesman, philosopher — in some degree. He must understand symbols and speak in words. He must contemplate the particular in terms of the general and touch abstract and concrete in the same flight of thought. He must study the present in the light of the past for the purposes of the future. No part of man’s nature or his institutions must lie entirely outside his regard.
+
