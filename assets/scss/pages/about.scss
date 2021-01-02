@@ -1,0 +1,85 @@
+@import "../main";
+
+.splash-container {
+  height: 100%;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  font-size: 14px;
+
+  @media screen and (min-width: $medium) {
+    font-size: 18px;
+  }
+}
+
+.splash {
+  h1 {
+    font-size: 2.3em;
+    line-height: 1;
+    letter-spacing: -0.03em;
+    margin: 0.5em;
+    align-content: left;
+  }
+
+  h2 {
+    font-size: 1.5em;
+    font-weight: 500;
+    line-height: 1.25;
+    max-width: 22em;
+    letter-spacing: -0.03em;
+  }
+  
+  h3 {
+    font-size: 1em;
+    font-weight: 100;
+    line-height: 1;
+    max-width: 30em;
+    letter-spacing: 0em;
+  }
+  
+  th, td {
+    padding: 0.3rem;
+    text-align: center;
+  }
+  
+}
+
+.fancy {
+  color: $primary;
+}
+
+.handle {
+    font-size: 0.8em;
+    font-weight: 100;
+    line-height: 3;
+    letter-spacing: 0em;
+    max-width: 40em;
+    justify-content: center;
+    align-items: center;
+    margin: 0rem;
+}
+
+
+.writing {
+  text-decoration: none;
+  color: $primary;
+}
+
+.profilePic {
+  justify-content: right;
+  align-items: right;
+}
+
+/* overrides */
+
+main {
+  padding-top: 0;
+  padding-bottom: 0;
+  height: 100%;
+}
+
+.social-icons {
+  align-items: center;
+  padding-top: 1rem;
+  margin-left: -0.8rem;  // offset to negate icon's padding to align with text above
+}

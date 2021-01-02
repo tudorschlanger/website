@@ -1,0 +1,53 @@
+{{ define "styles" }}
+    {{ $.Scratch.Set "style_opts" (dict "src" "scss/pages/about.scss" "dest" "css/about.css") }}
+{{ end }}
+
+{{ define "main" }}
+
+<div class="splash-container">
+  <div class="splash">
+    
+    <table>
+     <tr>
+       <td rowspan="2"><img src="img/profilePic.jpg" style="width: 11rem" alt='Profile Picture'></td>
+       <td align="left" valign="middle"> <h1> Tudor <br> Schlanger </h1> </td>
+     </tr> 
+     <tr>
+       <td valign="top">     {{ partial "social-icons.html" .}}
+ </td>
+     </tr>
+
+
+    </table>
+
+
+      
+
+    {{ if isset .Params "text1" }}
+    <h3>
+      {{ .Params.text1 }}
+    </h3>
+    {{end}}
+
+    {{ if isset .Params "text2" }}
+    <h3>
+      {{ .Params.text2 }}
+    </h3>
+    {{end}}
+    
+    {{ if isset .Params "text3" }}
+    <h3>
+      {{ .Params.text3 }}
+    </h3>
+    {{end}}
+    
+    
+    
+  </div>
+  
+
+</div>
+{{ partial "footer" .}}
+
+{{ end }}
+
