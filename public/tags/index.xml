@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on codex</title>
+    <title>Tags on Home</title>
     <link>https://tudorschlanger.com/tags/</link>
-    <description>Recent content in Tags on codex</description>
+    <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020. All rights reserved. The views expressed on this website are solely my own. No responsibility for them should be attributed to the Bank of Canada.</copyright>
@@ -56,7 +56,7 @@
     <item>
       <title>COVID-19</title>
       <link>https://tudorschlanger.com/tags/covid-19/</link>
-      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://tudorschlanger.com/tags/covid-19/</guid>
       <description></description>

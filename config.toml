@@ -4,7 +4,7 @@
 theme = "hugo-theme-codex"
 
 # Override these settings with your own
-title = "codex"
+title = "Home"
 languageCode = "en-us"
 baseURL = "https://tudorschlanger.com/"
 copyright = "© 2020. All rights reserved. The views expressed on this website are solely my own. No responsibility for them should be attributed to the Bank of Canada."

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>codex</title>
+    <title>Home</title>
     <link>https://tudorschlanger.com/</link>
-    <description>Recent content on codex</description>
+    <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020. All rights reserved. The views expressed on this website are solely my own. No responsibility for them should be attributed to the Bank of Canada.</copyright>
@@ -33,6 +33,15 @@
       
       <guid>https://tudorschlanger.com/blog/discount-rate/</guid>
       <description>In the previous episode …In my previous post, I was emphasizing that the time period matters when considering to internalize a certain externality. In the perpetual cost-benefit analysis that people make between present and future, people put a higher emphasis on the benefits accruing in the present and a lesser emphasis on future costs. For this reason, people can easily coalesce in favour of limiting the damage of the Covid-19 virus, but can fail to do so against a more distant threat such as climate change.</description>
+    </item>
+    
+    <item>
+      <title>COVID-19, Climate Change and the Tragedy of Horizons</title>
+      <link>https://tudorschlanger.com/blog/tragedy-of-horizons/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tudorschlanger.com/blog/tragedy-of-horizons/</guid>
+      <description>In the previous episode …In my previous post, I was arguing that the current containment measures are not only a safeguard of human lives but also of longer term economic prosperity. They prevent us from making short-sighted gains at the price of our safety and the economy’s future productive capacity. In a nutshell, containment measures allow us to internalize the virus externality that arises from our economic activity and improve social welfare overall.</description>
     </item>
     
     <item>
