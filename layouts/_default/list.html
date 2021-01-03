@@ -16,6 +16,9 @@
         <h2 class="post__title">
           <a href="{{.RelPermalink}}">{{ .Title }}</a>
         </h2>
+        <div class="post__description"> 
+          <i> {{ .Description }} </i>
+        </div>
         {{ partial "tags.html" .}}
       </div>
     </li>

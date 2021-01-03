@@ -9,7 +9,7 @@ date: "2020-09-02"
 # The post filename
 slug: "justice-and-fairness"
 # Post description used for seo
-description: ""
+description: "An article on different theories of justice: meritocracy, libertarianism, Rawlsian theory."
 # Post keywords used for seo
 keywords: ["ECON 101", "Political Philosophy"]
 # If true, the blog post will not be included in static build

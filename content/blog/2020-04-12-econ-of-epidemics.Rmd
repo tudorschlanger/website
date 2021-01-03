@@ -9,7 +9,7 @@ date: 2020-04-14
 # The post filename
 slug: "econ-of-epidemics"
 # Post description used for seo
-description: ""
+description: "A brief foray into the economics of epidemics."
 # Post keywords used for seo
 keywords: ["COVID-19"]
 # If true, the blog post will not be included in static build

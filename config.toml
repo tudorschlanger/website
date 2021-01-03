@@ -7,7 +7,7 @@ theme = "hugo-theme-codex"
 title = "Home"
 languageCode = "en-us"
 baseURL = "https://tudorschlanger.com/"
-copyright = "© 2020. All rights reserved. The views expressed on this website are solely my own. No responsibility for them should be attributed to the Bank of Canada."
+copyright = "© 2021. All rights reserved. The views expressed on this website are solely my own. No responsibility for them should be attributed to the Bank of Canada."
 
 # Add your Disqus shortname here.
 disqusShortname = "tudorschlanger-com" # delete this to disable disqus comments
