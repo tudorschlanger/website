@@ -3,7 +3,7 @@ author: "Tudor Schlanger"
 
 # The title of your post. Default value is generated
 # From the markdown filename
-title: "Basic Income Ain't No Silver Bullet"
+title: "Basic Income: Not a Silver Bullet"
 # The date the post was created
 date: "2021-02-14"
 # The post filename
@@ -24,7 +24,7 @@ toc: false
 
 In this post, I would like to discuss a new and insightful perspective to this worldwide debate. Earlier this year, [a new report on Basic Income](https://bcbasicincomepanel.ca) - commissioned by the British Columbian government and authored by three economics professors in Western Canada - was released. The basic question they answer in this 500+ page report: Should we implement a Basic Income in this province? While the policy seems simple, feasible and as magical as a silver bullet, what one soon realises – just by looking at the page count - is that ... it’s not. 
 
-TLDR: The authors reach the conclusion that it is not worth having a basic income in BC.
+TL;DR: The authors reach the conclusion that it is not worth having a basic income in BC.
 
 Yet, this simple conclusion belies the complexity of the task at hand – and indeed, the conclusion is far less interesting than the journey they undertake to reach it. The authors offer a very nuanced, and comprehensive view of Basic Income – one that borrows from theories of justice and psychology to ascertain whether the Basic Income is a policy that is worth implementing. It is on this latter point that I will focus throughout this blog post. 
 
@@ -36,9 +36,9 @@ When it comes to a Basic Income policy, it is very important to understand that 
 
 From the authors’ perspective, the success of a policy should be measured by its ability to lead to a more **just** society. [In a previous post](/blog/justice-and-fairness), I discuss some conceptions of justice, focusing on meritocracy, libertarianism and the Rawlsian theory of justice. The Report relies more on the intellectual legacy of the latter – but it also draws from other political philosophers, such as the founding father of economics, Adam Smith. 
 
-In his (less-well-known-among-economists) [Theory of Moral Sentiments](https://www.adamsmith.org/the-theory-of-moral-sentiments), Smith claims that “The most effective societal institutions recognize and enhance our social nature as well as our individual nature.” (cited in the Report) These institutions, which can range from the executive to the legal institutions or even the rules/laws that distribute resources in our society, should strengthen the social fabric and build “mutual sympathy” between members of a society. In essence, a good policy would be a rule that empowers individuals but also brings people together, by making individuals concerned for each other’s circumstances and push them to act in accordance to that concern. 
+In his (less-well-known-among-economists) [Theory of Moral Sentiments](https://www.adamsmith.org/the-theory-of-moral-sentiments), Smith claims that “The most effective societal institutions recognize and enhance our social nature as well as our individual nature.” (cited in the Report) These institutions, which can range from the executive to the legal institutions or even the rules/laws that distribute resources in our society, should strengthen the social fabric and build “mutual sympathy” between members of a society. In essence, a good policy would be a rule that empowers individuals but also brings people together, by making individuals concerned for each other’s circumstances and push them to act in accordance to that concern.  
 
-The authors are quite aware that the social aspect may trump the individual considerations – they invoke Rawls here: “The central problem of justice is how to balance our social nature with individual rights.” Should society have so much consideration and “sympathy” (a la Smith) that we help the least well-off at the expense of the most well-off, encroaching on their individual rights? The issue is that society is also composed of the most well-off whose ideas of justice may not correspond to this highly pro-social stance. Indeed, everyone may not have the same theory of justice as that benevolent social planner who attempts to infuse “mutual sympathy” in all of us. 
+The authors are quite aware that the social aspect may trump the individual considerations – they invoke Rawls here: “The central problem of justice is how to balance our social nature with individual rights.” Should society have so much consideration and “sympathy” (&agrave; la Smith) that we help the least well-off at the expense of the most well-off, encroaching on their individual rights? The issue is that society is also composed of the most well-off whose ideas of justice may not correspond to this highly pro-social stance. Indeed, everyone may not have the same theory of justice as that benevolent social planner who attempts to infuse “mutual sympathy” in all of us. 
 
 Recognizing that people hold a mozaic of ideas of justice, the authors of the Report stress that one can find is at least one commonality among many theories of justice: the notion of self-respect and social respect (i.e. the respect we get from others in the society). This is very central to the Rawlsian conception of justice, but it is, in a sense, also tied to the Libertarian approach: the more the individual is enabled to use their resources freely, the more respect he is conferred by society, and the more self-respect he derives from such freedom. 
 
@@ -72,6 +72,24 @@ Moreover, to make a policy weather the test of time, society needs to trust the 
 Before jumping to the answer, let us define the Basic Income using the fairly straightforward definition put forth in the Report: “Basic income means a policy that guarantees all members of a society a minimum amount income in a period.” The authors make an additional distinction in the context of BC: the policy would be applied to all adults (ages 18-64), since the senior and minor populations are already covered by federal basic income programs called Old Age Security and Canada Child Benefit.
 
 When we contrast this policy against the requirements listed above, we see quite soon why it doesn’t check all the boxes. To begin with, a Universal Basic Income (UBI) which would award cash transfers independent of income would simply be too expensive for a fiscally sustainable program – contradicting item **#8**. Even a generous enough level of UBI may not be sufficient to cover for a lot of people’s basic needs (such as disability needs) – contradicting item **#1**. Hence, a targeted basic income would be better suited; however, this approach requires an extensive set of design parameters that introduce complexity and can add to the stigma that welfare recipients already experience – contradicting item **#6**. Moreover, a targeted program that is both fiscally sustainable, would likely introduce certain labor disincentives that are already common in social welfare systems, and which undermine buy-in from contributors to the system – contradicting item **#9**. 
+
+Below, I am including a summary table shedding light on the adequacy of a Universal Basic Income (UBI), assuming a high and consistent level of cash transfers to cover for current and future basic needs. I encourage the reader to create thought experiments to see where the Basic Income may fail - or in what ideal situation the Basic Income policy would satisfy as many of the below. 
+
+
+|             Analytic framework category            |                        Desired policy characteristic                        | Does UBI  meet this? |
+|:------------------------------------:|:---------------------------------------------------------------------------:|:--------------------:|
+|          Sense  of  Autonomy         | 1. Provides adequate resources to lift people out of poverty                |      Potentially     |
+|                                      | 2. Creates simple and accessible programs to allocate resources             |         Yes          |
+|                                      | 3. Provides a sense of stability and security about fulfilling future needs |          Yes          |
+|                                      | 4. Provides opportunity to exercise autonomy                                |          Yes         |
+| Sense  of  Efficacy  and  Competence | 5. Is responsive to different needs and circumstances                       |          No          |
+|                                      | 6. Creates resilience to respond in times of crisis                         |          No          |
+|          Social  Connection          | 7. Creates a socially inclusive community                                   |      Potentially     |
+|             Public  trust            | 8. It is fiscally sustainable and robust to the political cycle             |          No          |
+|                                      | 9. It requires buy-in from beneficiaries and contributors of the program    |          No          |
+
+One thing is clear: no matter the design a Basic Income policy, it is bound to conflict with some or many of the analytic framework categories. Moreover, what we don't consider here is the opportunity cost of this policy! What are the things we may need to trade to get the benefits of a Basic Income! This is something the Report discusses in more detail in the context of British Columbia. 
+
 
 ## Conclusion
 All in all, it does not seem that a Basic Income can easily pass a rigorous analytical framework. As soon as one delves into the nitty gritty of this policy, it loses its appeal as the magical silver bullet that many people tout as being able to save the welfare system. Rather than throwing the baby out with the bath water, the authors focus on how to improve the current social welfare system to aid people who fall through the cracks, and recommend implementing fixes that can push the system closer to a golden standard.
