@@ -7,7 +7,7 @@ theme = "hugo-theme-codex"
 title = "Home"
 languageCode = "en-us"
 baseURL = "https://tudorschlanger.com/"
-copyright = "© 2021. All rights reserved. The views expressed on this website are solely my own. No responsibility for them should be attributed to the Bank of Canada."
+copyright = "© 2021. All rights reserved. The views expressed on this website are solely my own."
 
 # Add your Disqus shortname here.
 disqusShortname = "tudorschlanger-com" # delete this to disable disqus comments
@@ -24,7 +24,7 @@ googleAnalytics = "UA-163330696-1"
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   twitter = "https://twitter.com/tudorschlanger"
   github = "https://github.com/tudorschlanger"
-  email = "mailto:tudor.schlanger@gmail.com"
+  email = "mailto:tudor.schlanger@princeton.edu"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
   # instagram = "https://instagram.com/<your handle>"
@@ -67,6 +67,7 @@ googleAnalytics = "UA-163330696-1"
   name = "blog"
   title = "Blog"
   url = "/blog"
+
 
 
 

@@ -9,7 +9,7 @@ date: "2020-07-25"
 # The post filename
 slug: "econ-became-mathy-ii"
 # Post description used for seo
-description: ""
+description: "Part 2 explores the post WWII developments in mathematical economics."
 # Post keywords used for seo
 keywords: ["History of Economic Thought"]
 # If true, the blog post will not be included in static build

@@ -9,7 +9,7 @@ date: "2020-09-01"
 # The post filename
 slug: "efficiency-and-optimality"
 # Post description used for seo
-description: ""
+description: "This article discusses optimality, efficiency and its trade-offs with equality."
 # Post keywords used for seo
 keywords: ["ECON 101"]
 # If true, the blog post will not be included in static build
@@ -22,6 +22,8 @@ math: true
 toc: false
 ---
 
+*This entry is the **first** of a two-part lecture written for the Econ 101 2020W class at the University of British Columbia, co-authored with Christina (Kit) Schwartz and Mauricio Drelichman.* 
+
 In this reading we will explore how economists think about optimal or efficient allocations. “Optimal” and “efficient” are both nice-sounding words. In economics, however, these words have very specific meanings. Below we will define what they mean and, especially, what they do not mean.
 
 ### Pareto optimality
@@ -33,10 +35,12 @@ First, we can establish that, in order for an allocation to be Pareto optimal, b
 
 Let’s then consider all allocations that fully utilize the available resources – that is, the apple and the pear. There are four possibilities:
 
-+ Erin gets both fruits
-+ Josh gets both fruits
-+ Erin gets the apple and Josh gets the pear
-+ Erin gets the pear and Josh gets the apple
+<ol type="a">
+  <li> Erin gets both fruits </li>
+  <li> Josh gets both fruits </li>
+  <li> Erin gets the apple and Josh gets the pear </li>
+  <li> Erin gets the pear and Josh gets the apple </li>
+</ol>
 
 Is allocation a) Pareto optimal? We could make Josh better off by taking the pear from Erin and giving it to him. However, this would make Erin worse off. Even though she likes apples better than pears, having both fruits is better than having just one of them. We cannot make Josh better off without making Erin worse off, and therefore allocation a) is Pareto optimal. By a similar reasoning, so is allocation b).
 What about allocation c)? Here each person has their preferred fruit. The only way to make one of them better off is to give them both fruits, but this would make the other person worse off. Allocation c) is also Pareto optimal. 
@@ -63,13 +67,14 @@ There are, however, markets in which transaction costs are very small. Think abo
 
 Back to the theorem: let’s now assume it is costless to transact. Then a competitive market will produce an efficient allocation REGARDLESS of the initial distribution of resources. Think about it for a minute. If we distribute all resources equally among all agents, the market will make sure that eventually we get an efficient allocation. But what if we give all the available resources to a single individual? No matter – the market will also ensure that an efficient allocation is reached. The resulting allocations may look different, but they will both be efficient, and Pareto optimal.
 Since the Coase Theorem can be somewhat hard to grasp, let’s work through an example. Going back to Tanya and Joseph, let’s assume that their annual productivity in each plot of land is given by the following table:
+<br><br>
 
-
+<div align="center">
 |        | Vineyard   |    Orchard  |  
 |--------|------------|-------------|
 | Tanya  | 100 grapes |  100 apples |  
 | Joseph |  20 grapes |  20 apples  | 
-
+</div>
 
 The efficient allocation is clearly to give Tanya both the vineyard and the orchard, thus maximizing the economy’s output at a level of 100 grapes and 100 apples. Or is it? The Coase Theorem tells us that it really doesn’t matter where we start from. Let’s work through all possible scenarios.
 

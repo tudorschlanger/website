@@ -1,0 +1,100 @@
+---
+author: "Tudor Schlanger"
+
+# The title of your post. Default value is generated
+# From the markdown filename
+title: "A Critique of MMT"
+# The date the post was created
+date: "2021-08-04"
+# The post filename
+slug: "modern-monetary-theory"
+# Post description used for seo
+description: "A critical perspective on the foundations and solutions brought forth by MMT proponents"
+# Post keywords used for seo
+keywords: ["MMT", "Functional Finance", "Monetary Policy", "Fiscal Policy"]
+# If true, the blog post will not be included in static build
+draft: true
+# Categorize your post with tags
+tags: ["MMT", "Functional Finance", "Monetary Policy", "Fiscal Policy"]
+# Uses math typesetting
+math: true
+# Includes a table of contents on screens >1024px
+toc: false
+---
+
+Modern Monetary Theory (MMT) is an interesting name for a suite of ideas that are not *modern* (the fundamentals of MMT were conceived by Abba Lerner in a 1943 paper where he calls it *Functional Finance*), nor *monetary* (as we shall see, fiscal policy is front and center), nor even a well-grounded, consistent *theory* (many mainstream economists find inconsistencies in the arguments of MMT proponents). 
+If MMT can be classified as something, I would preface that it is rather a simple solution whose main goal is to eliminate involuntary unemployment and support real economic growth. 
+And much like other silver-bullet solutions, such as basic income which I discussed in an earlier blog post (see here), it resurges in a cyclical fashion gathering a lot of political support and popular sympathy in the media and among the general public.  
+
+In this blog post, I aim to lay out my understanding of MMT as presented by Stephanie Kelton in her book The Deficit Myth, and the fundamentals of the theory as they were conceived by Abba Lerner in his article [Functional Finance and the Federal Debt](https://modernmoneynetwork.org/sites/default/files/biblio/lerner%20functional%20finance_0.pdf). 
+I then outline my own reservations about the theory, and also sketch some arguments publicly shared by mainstream economists in the Appendix.
+
+
+### Fundamentals of MMT
+
+At the core of the matter is unemployment. The current MMT proponents criticize the inability of macroeconomists or policy makers to offer solutions that can reduce the fluctuations in unemployment, especially in the aftermath of the most recent recessions. They attack the assumption that the government cannot run large deficits and make full use of its fiscal powers to bolster the real economy. 
+For instance, Stephanie Kelton remarks that the government can do a lot more than it historically has done to reign in unemployment. Following the 2008 financial crisis, the Obama administration and the economists it heeded were too concerned with fiscal deficits associated with running a full stimulus package. They sacrificed too much social welfare by keeping purses tight. 
+What MMT proponents would have done is have the government run large deficits which can provide the necessary support to the unemployed. 
+
+Alright, now let's take a little detour to better understand the principles behind MMT. Again, the fundamentals are borrowed from Functional Finance, so I will outline them as it was done by Abba Lerner:
+
+1. **Spending and taxation are set in order to maximize full employment, with inflation being the chief constraint**
+
+  If we were to represent this as an optimization problem, one could write that MMT aims to solve this problem:
+
+$$
+   \min_{G, T} U(G,T) \text{ such that } \pi \ll \infty
+$$
+
+  where $U$ stands for involuntary unemployment, $G$ for government spending, $T$ for taxation, $\pi$ for inflation   and $\ll$ is a symbol for much less than. We can even narrow it down by keeping government spending and eliminating taxation - although Kelton points out that taxation is also useful in taming inflation and is relevant for other reasons. 
+  
+2. **Borrowing and loaning is set to achieve a "desirable rate of investment" which supports full employment without producing inflation.**
+
+  Note that in this problem set up by a *monetary* theory, interest rates are an outcome of borrowing and loaning government bonds. This is essentially what a central bank would call Quantitative Easing, however the difference is that a truly independent central bank only trades government bonds on a secondary market, it does not buy it directly from the government. Hence, under Functional Finance, the monetary policy role is undertaken by the fiscal authority. 
+
+3. **Short of financing the deficit via borrowing, the government can print money to finance it, while surpluses can go towards repaying debt.**
+
+  In setting the desired interest rates, borrowing also allows the government to fund the deficit spending. Because most of the time, the borrowed sums would not exactly cover these deficits, the government may need to print money as well to finance the interest payments. Here, Lerner qualifies this by saying that governments need not always run deficits, and in the long run, budget deficits and surpluses will even each other out and avoid an increasingly large national debt. 
+
+**Key assumption:**
+Functional finance/MMT is a viable option only in a state with monetary sovereignty, that is, a state that issues its own nonconvertible currency (not backed by gold or other assets), *and* a state that can borrow in its own currency. 
+This assumption is crucial to the statement that the government can always issue its own currency to cover for the deficits. 
+Implicit to this assumption is the fact that the government comprises the fiscal and monetary authorities at the same time. 
+
+Now that we have laid out the principles, the core question for a policy maker is what to do with all the deficit-funded spending envisioned by MMT proponents. 
+In The Deficit Myth, Kelton proposes to use spending towards establishing a permanent guaranteed job program. A sort of New Deal on steroids. This would be administered in a decentralized fashion where the money provided by the federal government is allocated to projects that local communities value most. People would be allowed to join this pool at a minimum wage when they lose their current job, or can even opt in at anytime.
+
+And lastly, while taxation is not directly necessary to achieving the goal of minimizing involuntary unemployment, it can be used to reduce inflation as well as to curb wealth and income inequality or incentivize the population to choose certain goods and actions over others (e.g. think of carbon taxes to reduce fuel consumption).
+
+I think this suffices as a short overview. Now let's step into the main issues!
+
+### My critique of MMT
+
+The first point of order is the separation of monetary and fiscal powers. It has been a long standing principle that monetary policy needs to be disconnected from the political realm where the government's main prerogative should be to spend, tax, and borrow to fulfill its fiscal duties. Failure to separate them has many times resulted in short-sighted behaviour which propelled the economy into hyperinflation. This is largely because the temptation to print money to cover for deficits and address short-term concerns overrides the long-term isse of a rapidly devaluating currency. Hyperinflationary episodes are riveting events - at least for an economist - and luckily history generously provides enough food for thought on this front.  But I shall reserve my enthusiasm on this topic to a future blog post. 
+
+For now, it is worth emphasizing that MMT is proposing the fusion of the two powers into one, whereby the government can set interest rates by buying and selling bonds. It can also print money to cover for the national debt in case borrowing cannot solely address that. MMT would say that printing is not necessarily inflationary, only *spending* is. However, printing money increases the quantity of money in circulation which (as Mankiw notices) either i) leads to more private spending as a result of a wealth effect (people simply have more money) which is inflationary or ii) it reduces the real value of money which then requires larger nominal deficits to ensure an equal level of full employment and, necessarily, it follows that even more printing is requires to cover for the deficit. At some point, people will notice the ever expanding supply of money and will form expectations of exponentially rising prices. Hyperinflation is on the horizon!
+ 
+This brings me to a second point which is that MMT proponents misunderstand the nature of inflation. They claim that the only thing that matters for inflation is public or private spending above and beyond the productive capacity of the economy. This is part of the story. The other part relates to expectations. What people expect inflation to be will determine in part what will actually be. Prices - which are set by actual people working for actual firms - are set according to those people's expectations of what the industry prices will be in the near future. If everyone heard that prices will be higher in the future, no one will miss out on the opportunity to increase them lest they make a loss! This is very much a self-fulfilling prophecy and a very powerful one! It is at the basis of hyperinflationary episodes. For this reason, it is necessary to have an independent monetary authority that can vouch for the stability of prices and take meaningful action to keep that promise. The government would not be able to make a credible promise because its main stated priority is full employment and not defaulting on its debt. There is sometimes a trade-off between employment and inflation and it is unclear that elected officials would choose inflation over employment.
+
+An interesting question we also need to ask is how the extra government spending is going to be generated and whether that will affect private businesses. This is the famous "crowding out" argument that Krugman also mentions. On one hand, we can imagine that the government goes on a borrowing spree to finance its new spending program. If large enough, the government may saturate the market with bonds and may need to pay a larger interest to incentivize people to buy them and hence clear the market. Alternatively, the spending may also lead to inflationary pressures which would require rates to move higher - again, via selling government bonds. Now, a larger rate on government bonds inevitably raises rates for businesses because government bonds are a lower bound for all other rates since they are the safest asset. This in turn increases the cost of financing projects and many investments or firm spending may not be conducted. Ultimately, it means fewer business opportunities are being created and a less dynamic private sector is detrimental to productivity growth and full employment. 
+
+Another question is whether the spending itself will crowd out private parties. For instance, Kelton proposes that the spending be directed towards a permanent guaranteed job program. This is worth thinking about because at face value it seems like a neat idea! The government would provide labor opportunities to everyone who requires it. However, labor may be diverted from the private sector if the wages are in the guaranteed job program are too high. Companies will have to raise their wages to compete for talent. As Kelton mentions, this could be a good thing if the wages in the private sector don't help people make ends meet. At the same time, this job program cannot solely employ people to do menial tasks - the point is to have people work on valuable projects which produce meaningful economic wealth. This means that one cannot simply give them a shovel and have them dig a hole only to have it covered the next day (Keynes's idea, not mine). Capital investment and overhead staff is required to develop such projects. There needs to be a permanent staff that can constantly manage the inflow and outflow of labor, to match the labor to its most efficient uses. 
+
+Imagine for instance, that there is a region that is ravaged by unemployment suddenly. Take Alberta, Canada in the aftermath of the 2014-2016 oil price shock. Then the regional Alberta office would need to expand to welcome the reserve army of unemployed labor in a matter of months. Considerable capital investments and talent equivalent to the size of the oil industry may need to be used - and some would necessarily come from the remaining private sector economy unaffected by the oil price shock. Hence, the healthy part of the economy would be used at the service of a public sector which is likely to make the private sector highly reliable on such programs. In the limiting case, everyone will work for the government more or less directly. 
+
+Instead, one could think of other options that can use the government spending. For instance, wage subsidies have been used during the Covid pandemic to soften the blow sustained by firms during the lockdown. This measure allows for companies to keep their talent employed, preserve human capital, avoid bankruptcies and continue supporting aggregate demand. Kelton dismisses other programs such as training and re-skilling or unemployment insurance as insufficient to provide full-time employment opportunities, but I believe they are important options that workers should have in case they want to change careers or simply stop working for a while to redirect their focus to other activities. These programs also have the benefit of not requiring the types of spending that would be entailed in a guaranteed job program, they are quite decentralized, can be more easily phased in and out and they are generally complementary to the private sector. 
+
+
+
+### Appendix: Other people's viewpoints on MMT
+1. Krugman: Critique of Kelton and Functional Finance)
+- He acknowledges the points raised by Functional Finance (Lerner, 1943), especially in the context of nominal interest rates being close to their effective lower bound; fiscal policy is required to achieve full employment when conventional monetary policy is limited  [article here](https://www.nytimes.com/2019/02/12/opinion/whats-wrong-with-functional-finance-wonkish.html)
+- this is not necessarily true when central banks have more leeway to move the interest rates - in this case, one can achieve full employment via monetary stimulus without pressing the fiscal gas pedal [see illustrative diagram here](https://www.nytimes.com/2019/02/25/opinion/running-on-mmt-wonkish.html). Krugman claims that "as long as monetary policy is available, there is a range of possible deficits consistent with that goal". 
+- lastly, Krugman argues that Lerner dismisses government debt too soon. Lerner believes that deficits are never too large, the government can run surpluses and in the long-run the debt will be boundedly stable. The political reality is that governments rarely run surpluses large enough to balance decades of deficit because it is politically unpalatable to find new revenue sources or adopt austerity measures. 
+
+2. Mankiw: Critique of MMT based off textbook written by Mitchell, Watts and Wray  
+[article here](https://www.aeaweb.org/articles?id=10.1257/pandp.20201102)
+- Mankiw argues that governments do face a budget constraint: even if they print the money now to pay for interest payments, the effect of rapidly increasing the supply of money leads to higher agg demand due to wealth effect which spurs inflation (which reaches the restriction imposed by MMT); second inflation reduces the real money balances which reduces the real resources that gov can claim via money creation. In the next round of spending, the government will have to borrow or print more money to finance full employment because the ability to print money has little value at the margin. More spending requires larger deficits which will increase the money supply even more. Hyperinflation is on the horizon. Mankiw argues that governments would prefer to default because it is preferable to hyperinflation. 
+- MMT proponents might say that policy makers should aim for the optimum, which is the level that maximizes social welfare; MMT either proposes to increase spending (although this may bring in inflationary pressures before we reach optimum since the natural employment level is lower than the optimal level in general) or it proposes price controls that can clear the markets which, historically, worked quite poorly.  
+
+
