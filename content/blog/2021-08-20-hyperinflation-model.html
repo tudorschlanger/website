@@ -1,0 +1,77 @@
+---
+author: "Tudor Schlanger"
+
+# The title of your post. Default value is generated
+# From the markdown filename
+title: "Toying with (a model of) hyperinflation"
+# The date the post was created
+date: "2021-08-20"
+# The post filename
+slug: "hyperinflation-model"
+# Post description used for seo
+description: "Thinking about hyperinflation using a game theory model"
+# Post keywords used for seo
+keywords: ["hyperinflation"]
+# If true, the blog post will not be included in static build
+draft: false
+# Categorize your post with tags
+tags: ["hyperinflation"]
+# Uses math typesetting
+math: true
+# Includes a table of contents on screens >1024px
+toc: false
+---
+
+
+
+<p>There are two players in the game:</p>
+<ol style="list-style-type: decimal">
+<li>Government - also known as the currency issuer.</li>
+<li>Firms - also known as price-setters.</li>
+</ol>
+<p>They have some goals:</p>
+<ol style="list-style-type: decimal">
+<li>Government may want to raise seigniorage revenues by printing money. We can assume that the government has exhausted all other financing options such as raising taxes, or borrowing either domestically or internationally.</li>
+<li>Firms want to have nonnegative profits throughout time. For instance, they want their prices to keep up with intermediary goods or wage inflation.</li>
+</ol>
+<p>To achieve these goals, they can undertake some actions:</p>
+<ol style="list-style-type: decimal">
+<li><p>The government can print money. If it does, then inflation goes up by one inflation unit (one can think of it as a percentage point increase).</p></li>
+<li><p>Firms can raise prices. If they do, they will raise it above the most recent inflation increase by one inflation unit. We assume that demand is perfectly inelastic such that any changes in prices will not affect quantity demanded so that any increase in prices is a nominal increase in profits.</p></li>
+</ol>
+<div id="a-simple-dynamic-game" class="section level3">
+<h3>A simple dynamic game</h3>
+<p>The payoffs in this game are setup for the following strategies:</p>
+<ul>
+<li><p><span class="math inline">\(\{PR\}\)</span> : when the government prints money, firms would more than offset the inflation tax caused by it. Assume inflation goes up by an additional percentage point. This allows firms to keep nonnegative revenues (+1 payoff for firms) but it also lowers the real value of money and further devalues the seigniorage revenues raised by the government (-1 payoff for gov).<br />
+</p></li>
+<li><p><span class="math inline">\(\{P\bar{R}\}\)</span>: the government raises money supply, but firms do not respond. Their profits are lower so they have a negative payoff (-1), while the government rejoices from seigniorage (+1).</p></li>
+<li><p><span class="math inline">\(\{\bar{P}R\}\)</span>: the same logic applies here as with PR, firms will score +1 while the government will be at -1.<br />
+</p></li>
+<li><p><span class="math inline">\(\{\bar{P}\bar{R}\}\)</span>: No change in inflation means no change in payoffs.</p>
+<p><img src="/img/tree_2period.jpg" /></p></li>
+</ul>
+<p>Notice that this is a zero sum game since at every period, one player’s gain results in higher inflation for the other player.
+The dominant strategy of firms is to raise prices, thus getting a payoff that reflects their increase in profits.
+In this setup, the government should then be indifferent between printing and not printing because they end up with a negative payoff at the end of the game no matter what.
+But if the government is forced to print, then we know the firms must raise.
+Should these two periods repeat themselves <em>ad infinitum</em>, the economy would arrive at a hyperinflationary episode.</p>
+<p>The setup may be too simplistic though.
+It does not seem very intuitive, for instance, that the possibility of hyperinflation does not enter either player’s calculations.
+So, for a more realistic setup, we add another period where the government can choose to print again and where this choice brings forth a real possibility of hyperinflation.</p>
+</div>
+<div id="another-round-with-a-hyperinflation-episode" class="section level3">
+<h3>Another round with a hyperinflation episode</h3>
+<p>Adding another period allows the government to issue new currency and ensure that the seigniorage revenue it was trying to obtain in the first round does not dissipate with the advent of higher firm-driven inflation. We already developed an intuition for how this tit-for-tat game causes inflation to escalate to the heights of hyperinflation.</p>
+<p><img src="/img/tree_3period.jpg" /></p>
+<p>Printing again may allow the government to secure its seigniorage revenues for the moment but it is also highly correlated to a hyperinflationary episode.
+Let us assume that the penalty associated with hyperinflation is -10 points. We include this in the current payoffs of the <span class="math inline">\(\{PP, R\}\)</span> pure strategy (which is the only one where the government prints multiple times).
+This large penalty can be interpreted as a crumbling economy which leads to an immediate change in government.
+Firms are equally affected by such a drastic turn of events, so let’s assume they both get a large negative payoff.</p>
+<p>In this slightly changed scenario, the government wouldn’t print a second time, so the firm would raise prices in case the government does decide to print during the first period.
+The firm would not raise if the government did not print to begin with.
+So adding the certainty of hyperinflation tames the impulses of both agents to raise prices and prevents an economic catastrophe.</p>
+<p>One may object to this by pointing that there is never certainty about whether hyperinflation would materialize, and no discrete moment can be identified to understand what triggered the episode and when.
+For these reasons, it is simplistic to say that a second round of printing surely leads to hyperinflation.
+Moreover, the government and firms may be myopic agents who have an attenuated view of the severity or timing of things.</p>
+</div>
