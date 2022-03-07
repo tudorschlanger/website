@@ -10,7 +10,8 @@ baseURL = "https://tudorschlanger.com/"
 copyright = "© 2021. All rights reserved. The views expressed on this website are solely my own."
 
 # Add your Disqus shortname here.
-disqusShortname = "tudorschlanger-com" # delete this to disable disqus comments
+disqusShortname = "" # delete this to disable disqus comments
+ #disqusShortname = "tudorschlanger-com" 
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
 googleAnalytics = "UA-163330696-1"
